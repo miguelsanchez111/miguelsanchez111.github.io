@@ -1,0 +1,53 @@
+table {
+    border: rgb(0, 0, 0) 8px solid;
+    text-align: center;
+    vertical-align: middle;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+    td, th {
+        border: rgba(230, 87, 87, 0.541) 3px solid;
+        text-align: center;
+      }
+      caption {
+        background-color: rgba(92, 220, 252, 0.351);
+        text-decoration: underline ;
+    }
+    thead {
+        font-weight: 1000;
+        font-variant: all-small-caps;
+    }
+    span.zaragoza{
+        background-color: #ff0202ef;
+    color: rgb(251, 255, 0);
+    }
+span.zaragozaciudad{
+ color: aqua;
+ font: italic;
+}
+span.madrid{
+    background-color: rgb(252, 193, 0);
+    color: red
+}
+span.frankfurt{
+    background-color: blue;
+    color: red;
+}
+span.wolves{
+    background-color: blueviolet;
+    color: chartreuse;
+}
+span.granada{
+    background-color: darkmagenta;
+    color: rgb(255, 238, 0);
+}
+span{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+    color: rgb(255, 123, 0);
+    font-size: larger;
+}
+body{
+    background-color: rgb(4, 248, 208);
+}
