@@ -23,7 +23,7 @@ table {
     color: rgb(251, 255, 0);
     }
 span.zaragozaciudad{
- color: aqua;
+ color: rgb(0, 0, 0);
  font: italic;
 }
 span.madrid{
@@ -49,5 +49,5 @@ span{
     font-size: larger;
 }
 body{
-    background-color: rgb(4, 248, 208);
+    background-color: rgb(4, 248, 195);
 }
